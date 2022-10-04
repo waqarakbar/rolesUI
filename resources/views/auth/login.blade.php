@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Khyber Pakhtunkhwa Integrated Security Workspace</title>
+    <title>Roles UI</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -66,11 +66,11 @@
                 <div class="card mb-0">
                     <div class="card-body">
                         <div class="text-center mb-3">
-                            {{--<i class="icon-unlocked2 icon-2x text-slate-400 border-slate-400 border-3 rounded-round p-3 mb-3 mt-1"></i>--}}
+                            <i class="icon-unlocked2 icon-2x text-slate-400 border-slate-400 border-3 rounded-round p-3 mb-3 mt-1"></i>
 
-                            <div class="text-center">
+                            {{--<div class="text-center">
                                 <img src="{{ asset('assets/images/logo.svg') }}" alt="" style="width: 150px">
-                            </div>
+                            </div>--}}
 
                             <h5 class="mb-0">Login to your account</h5>
                             <span class="d-block text-muted">Enter your credentials below</span>
@@ -108,7 +108,7 @@
                         </div>
 
                         <div class="form-group">
-                            <button type="submit" class="btn btn-success btn-block">Sign in <i class="icon-circle-right2 ml-2"></i></button>
+                            <button type="submit" class="btn btn-info btn-block">Sign in <i class="icon-circle-right2 ml-2"></i></button>
                         </div>
 
                         {{--<div class="text-center">

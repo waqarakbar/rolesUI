@@ -33,7 +33,7 @@
     <div class="navbar-brand wmin-200" style="padding: 0px;margin: 0px;">
         <a href="/" class="d-inline-block" style="font-size: 26px; color: #fff; padding-top: 9px;">
             {{--<img src="{{ asset('assets/images/logo_light.png') }}" alt="">--}}
-            <img src="{{ asset('assets/images/logo_white.svg') }}" alt="" style="width: 70px; height: auto; display: inline-block">
+            {{--<img src="{{ asset('assets/images/logo_white.svg') }}" alt="" style="width: 70px; height: auto; display: inline-block">--}}
             {{ env('APP_ABBR') }}
         </a>
     </div>

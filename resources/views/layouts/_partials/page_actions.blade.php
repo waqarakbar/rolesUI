@@ -16,10 +16,10 @@
         @if(isset($new_route))
 
             @if(isset($new_route[2]))
-                    <a href="{{ $new_route[0] }}" class="btn btn-success btn-sm"><i class="icon-database-add mr-1"></i>
+                    <a href="{{ $new_route[0] }}" class="btn btn-info btn-sm"><i class="icon-database-add mr-1"></i>
                         {{ $new_route[1] }}</a>
             @else
-                    <a href="{{ route($new_route[0]) }}" class="btn btn-success btn-sm"><i class="icon-database-add mr-1"></i>
+                    <a href="{{ route($new_route[0]) }}" class="btn btn-info btn-sm"><i class="icon-database-add mr-1"></i>
                         {{ $new_route[1] }}</a>
             @endif
 

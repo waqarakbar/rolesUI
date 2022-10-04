@@ -2,10 +2,10 @@
     color: red;
 }
 a{
-   color: #4BAF4F;;
+   color: #1F97F3;;
 }
 a:hover{
-    color: #0f7313;
+    color: #0b7bd0;
 }
 .custom-nav ul li{
     font-size: 0.9rem !important;
@@ -16,7 +16,7 @@ a:hover{
 }
 
 .form-label{
-    color: #46A24A;
+    color: #4c4c4c;
     font-weight: 500;
 }
 .show_in_print{

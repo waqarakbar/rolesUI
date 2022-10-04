@@ -88,7 +88,7 @@
                                             <i class="icon-undo mr-1"></i> Reset
                                         </button>
 
-                                        <button type="submit" class="btn btn-success btn-sm">
+                                        <button type="submit" class="btn btn-info btn-sm">
                                             <i class="icon-database-check mr-1"></i> Update Password
                                         </button>
 

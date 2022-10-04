@@ -240,7 +240,7 @@
                                         <i class="icon-arrow-left16 mr-1"></i> Back
                                     </a>
 
-                                    <button type="submit" class="btn btn-success btn-sm">
+                                    <button type="submit" class="btn btn-info btn-sm">
                                         <i class="icon-database-check mr-1"></i> Save
                                     </button>
 

@@ -56,7 +56,7 @@
                                             <td style="width: 150px">
 
                                                 <div class="btn-group">
-                                                    <button type="button" class="btn btn-success btn-sm dropdown-toggle" data-toggle="dropdown"><i class="icon-cog5 mr-2"></i> Options</button>
+                                                    <button type="button" class="btn btn-info btn-sm dropdown-toggle" data-toggle="dropdown"><i class="icon-cog5 mr-2"></i> Options</button>
                                                     <div class="dropdown-menu dropdown-menu-right">
 
 
