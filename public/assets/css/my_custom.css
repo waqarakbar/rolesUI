@@ -1,0 +1,26 @@
+.help{
+    color: red;
+}
+a{
+   color: #4BAF4F;;
+}
+a:hover{
+    color: #0f7313;
+}
+.custom-nav ul li{
+    font-size: 0.9rem !important;
+}
+.profile-mf-btn{
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.form-label{
+    color: #46A24A;
+    font-weight: 500;
+}
+.show_in_print{
+    display: none;
+}
+
+

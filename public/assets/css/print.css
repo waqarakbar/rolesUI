@@ -1,0 +1,104 @@
+@media print {
+    body{
+        background-color: #fff !important;
+    }
+
+    .hide_in_print{
+        display: none;
+    }
+
+    .header {
+        display: none;
+    }
+
+    .page-content {
+        margin: 0px;
+    }
+
+    .page-content .content {
+        padding: 20px;
+    }
+
+    .btn {
+        display: none;
+    }
+
+    .row-fluid [class*="span"] {
+        width: 96%;
+    }
+
+    #main-menu {
+        display: none;
+    }
+
+    #sidr {
+        display: none;
+    }
+
+    .printable{
+        font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        padding: 10px;
+        border: 0px solid red !important;
+    }
+
+    .report_head h3, .report_head h5, .report_head p{
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .report_head p{
+        font-size: 12px;
+    }
+
+    table {
+        font-size: 12px !important;
+        width: 100%;
+    }
+    .table td, .table th{
+        border:1px solid #ccc !important;
+        border-collapse: collapse;
+        padding:3px !important;
+        margin: 0px !important;
+        font-size: 12px !important;
+        text-align: left !important;
+    }
+    .table .text-center, .table .text-center{
+        text-align:center !important;
+    }
+    .hide_in_print{
+        display: none;
+    }
+
+    .show_in_print{
+        display:block;
+    }
+
+
+    .big_table td, .big_table th{
+        padding: 2px !important;
+    }
+
+    .page_break{
+        page-break-after: always;
+    }
+
+    .underline{
+        text-decoration: underline;
+    }
+
+    .borderb{
+        border-bottom: 1px dotted #d3d3d3;
+    }
+
+    .bordert{
+        b-order-top: 1px solid #c6c6c6;
+    }
+
+
+}
+
+@media  only screen{
+    .fuck-table-responsive{
+        overflow-x: auto !important;
+    }
+}
